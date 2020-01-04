@@ -1,0 +1,4 @@
+load SysIdenData_8.mat
+t = LogData.time;
+y_act = LogData.signals(1).values(:,2);
+y_actm = 
